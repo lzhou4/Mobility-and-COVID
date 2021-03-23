@@ -4,7 +4,7 @@ Instructions for accessing CSE 163 Project by Carlos Yu, Angel Zhou,
 and Joshua Zhang.
 
 <p align="center">
-  ![](plots/covid_pic.jpg)
+  ![](home/plots/covid_pic.jpg)
 <p>
 
 ## This project includes the following files:
