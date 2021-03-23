@@ -31,21 +31,4 @@ Challenge goal 1 "mutiple datasets" is in `RQ2.py` and `RQ3.py`,
 challenge goal 2 "machine learning" is in `RQ3.py`.
 
 For further information, please open the pdf file to understand this
-project better.earning" is in `RQ3.py`.
-
-For further information, please open the pdf file to understand this
-project better. is in `RQ2.py` and `RQ3.py`,
-challenge goal 2 "machine learning" is in `RQ3.py`.
-
-For further information, please open the pdf file to understand this
-project better.earning" is in `RQ3.py`.
-
-For further information, please open the pdf file to understand this
-project better. is in `RQ2.py` and `RQ3.py`,
-challenge goal 2 "machine learning" is in `RQ3.py`.
-
-For further information, please open the pdf file to understand this
-project better.earning" is in `RQ3.py`.
-
-For further information, please open the pdf file to understand this
 project better.
